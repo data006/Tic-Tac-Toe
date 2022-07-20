@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\bin\Debug\GatoCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\bin\Debug\GatoCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\bin\Debug\GatoCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.frmGatoCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\cs\GatoCS\GatoCS\obj\Debug\GatoCS.pdb

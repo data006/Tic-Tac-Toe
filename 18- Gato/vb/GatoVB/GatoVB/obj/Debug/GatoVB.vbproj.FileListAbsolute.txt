@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.frmGatoVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\bin\Debug\GatoVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\bin\Debug\GatoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\bin\Debug\GatoVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\bin\Debug\GatoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\19\vb\GatoVB\GatoVB\obj\Debug\GatoVB.pdb
